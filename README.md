@@ -5,7 +5,7 @@
 ## I'm focused on:
 - ✅ Writing clean, readable code conforming to industry standards . 
 - 📚 Learning and improving my skills on the latest web technologies.
-- 🤓 Expanding my skills in JavaScript and React, and dabbling in back-end (Node, Express,SQL, and MongoDB).
+- 🤓 Expanding my skills in JavaScript, React, and dabbling in back-end (Node, Express,SQL, and MongoDB).
 
 ### Contact me
 - 💁🏽‍♀️ Check out my portfolio at [https://luztherose.com/](https://luztherose.com/)
