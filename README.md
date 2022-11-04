@@ -8,7 +8,7 @@
 - 🤓 Expanding my skills in JavaScript, React, and dabbling in back-end (Node, Express,SQL, and MongoDB).
 
 ### Contact me
-- 💁🏽‍♀️ Check out my portfolio at [https://luztherose.com/](https://luztherose.github.io/portfolio/)
+- 💁🏽‍♀️ Check out my portfolio at [https://luztherose.github.io/portfolio/](https://luztherose.github.io/portfolio/)
 - 📃 My resume can be found [here](https://luztherose.com/assets/LuzDeLaRosaResume.pdf)
 
 
